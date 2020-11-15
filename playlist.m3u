@@ -1,81 +1,81 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", INDOSIAR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/indosiar.png" group-title="INDONESIA", INDOSIAR
 https://app-etslive-2.vidio.com/live/205/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", SCTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/sctv.png" group-title="INDONESIA", SCTV
 https://app-etslive-2.vidio.com/live/204/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", O CHANNEL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/Ochannel.png" group-title="INDONESIA", O CHANNEL
 https://etslive-2-vidio-com.akamaized.net/exp=1605467911~acl=/hls-p/ingest_206_*/*~hmac=5317ab99733139f2aaa3163692d1813eb5cdc24211c115b68d5103e74c5d819d/hls-p/ingest_206_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", RCTI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/rcti.png" group-title="INDONESIA", RCTI
 https://linier.rctiplus.id/live/eds/rcti_fta/live_fta/hdntl=exp=1605413041~acl=%2f*~data=hdntl~hmac=509469f8662f472e0bec4b8c63b860b77ee0a9937f8157d3e1fc2beb98557751/rcti_fta-mp4a_64000=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", MNC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/mnctv.png" group-title="INDONESIA", MNC
 https://cdn-rctiplus.metube.id/hls/mnctvplus_480/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", GTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/gtv.png" group-title="INDONESIA", GTV
 https://linier.rctiplus.id/live/eds/gtv_fta/live_fta/hdntl=exp=1605413331~acl=%2f*~data=hdntl~hmac=ec3e9b128f538a41a4329139c348f370ae08a33e5b37dc2a473a320897e66304/gtv_fta-avc1_2000000=1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", INEWS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/INews.png" group-title="INDONESIA", INEWS
 https://linier.rctiplus.id/live/eds/inews_fta/live_fta/hdntl=exp=1605413365~acl=%2f*~data=hdntl~hmac=6cd30de91573929fe0a6697533541a9feb8f289f6021a3dd160e0f81eb8c2139/inews_fta-mp4a_64000=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", RTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/rtv.png" group-title="INDONESIA", RTV
 https://cdngb196.useetv.com/joss/14/rtv/chunklist_w1796078877_b684100_sleng.m3u8?enc=VpG1M60xlouU5VOLjUT4sQ&id=&exp=1605336474
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", METRO TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/metrotv.png" group-title="INDONESIA", METRO TV
 https://cdngb196.useetv.com/joss/15/metrotv/chunklist_w1242302867_b894100_sleng.m3u8?enc=qmUz6O25tNBzKsb7YfjM7g&id=&exp=1605337825
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", TRANS TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/transtv.png" group-title="INDONESIA", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w556392170_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", TRANS 7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/trans7.png" group-title="INDONESIA", TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1831767064_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", CNN INDONESIA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/CNN_Indonesia.png" group-title="INDONESIA", CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1001098274_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", CNBC INDONESIA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/CNBC_Indonesia.png" group-title="INDONESIA", CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w878240738_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", NET.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/NETCHANNEL.png" group-title="INDONESIA", NET.
 plugin://plugin.video.youtube/play/?video_id=MSQhwpYQbtQ
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", ANTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/antv.png" group-title="INDONESIA", ANTV
 http://210.210.155.35:80/qwr9ew/s/s07/02.m3u8?app_type=mobile&userid=2m4n6yjvyen-&tkn=1U7A426J3DXLYES3U4V7KSIJCJXYR1YF&chname=antv
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", TV ONE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/tvone.png" group-title="INDONESIA", TV ONE
 plugin://plugin.video.youtube/play/?video_id=AecMq8M2Hgs
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", KOMPAS TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/kompastv.png" group-title="INDONESIA", KOMPAS TV
 plugin://plugin.video.youtube/play/?video_id=gIB2egm7tL8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", JAK TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/jaktv.png" group-title="INDONESIA", JAK TV
 https://etslive-2-vidio-com.akamaized.net/exp=1605468040~acl=/hls-p/ingest_5415_*/*~hmac=620437da54e505531ec8ea4e93a7a0a8aad1ff39412767ec719e112c185ea282/hls-p/ingest_5415_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", TVRI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/tvri.png" group-title="INDONESIA", TVRI
 http://103.130.186.138:8800/oxygenplay/tvri/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", TVRI NASIONAL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/tvri.png" group-title="INDONESIA", TVRI NASIONAL
 https://vcdnjt.useetv.com/joss/15/tvri/chunklist_w2102024889_b684100_sleng.m3u8?enc=whpxEwG0C-PGuqF6v9PWUQ&id=&exp=1605463478
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", TVRI DKI JAKARTA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/tvri.png" group-title="INDONESIA", TVRI DKI JAKARTA
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", TVRI BUDAYA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/tvri.png" group-title="INDONESIA", TVRI BUDAYA
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", BERITASATU
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/beritasatu.png" group-title="INDONESIA", BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA",DAAI TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/daaitv.png" group-title="INDONESIA",DAAI TV
 https://dcunilive7-lh.akamaihd.net/i/dclive_1@135498/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1605539789~acl=%2fi%2fdclive_1%40135498*~data=hdntl~hmac=6c2f9d43e9ae3181b90255665a5210b3cb386ede668cae739e79857d548baa81
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", ELSINTA TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/elshintatv.png" group-title="INDONESIA", ELSINTA TV
 plugin://plugin.video.youtube/play/?video_id=E5xDBNiQJVs
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", MyTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/mytv.png" group-title="INDONESIA", MyTV
 https://etslive-2-vidio-com.akamaized.net/exp=1605467869~acl=/hls-p/ingest_6711_*/*~hmac=c7615ce154c5f9bcc813c37507400b7e695215243bf043aeff096e07a3f0a96e/hls-p/ingest_6711_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", RADAR TV TASIKMALAYA
