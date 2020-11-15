@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/indosiar.png" group-title="INDONESIA", INDOSIAR
-https://app-etslive-2.vidio.com/live/205/master.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1605470421~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=e3dfc035296260daea2de4959bd8df79d4a9c2f5874323f4954fdd37dfd8c09c/vp9/205_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/sctv.png" group-title="INDONESIA", SCTV
-https://app-etslive-2.vidio.com/live/204/master.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1605470476~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=b57bfb3a3559d10d50c3de88b3d1f30ff0e682e5a19b130e6a2a03acf394dd2a/vp9/204_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/Ochannel.png" group-title="INDONESIA", O CHANNEL
 https://etslive-2-vidio-com.akamaized.net/exp=1605467911~acl=/hls-p/ingest_206_*/*~hmac=5317ab99733139f2aaa3163692d1813eb5cdc24211c115b68d5103e74c5d819d/hls-p/ingest_206_720p/index.m3u8
