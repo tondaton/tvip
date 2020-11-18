@@ -1,31 +1,34 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/indosiar.png" group-title="INDONESIA", INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1605470421~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=e3dfc035296260daea2de4959bd8df79d4a9c2f5874323f4954fdd37dfd8c09c/vp9/205_stream.mpd
+https://app-etslive-2.vidio.com/live/205/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/sctv.png" group-title="INDONESIA", SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1605470476~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=b57bfb3a3559d10d50c3de88b3d1f30ff0e682e5a19b130e6a2a03acf394dd2a/vp9/204_stream.mpd
+https://app-etslive-2.vidio.com/live/204/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/Ochannel.png" group-title="INDONESIA", O CHANNEL
-https://etslive-2-vidio-com.akamaized.net/exp=1605467911~acl=/hls-p/ingest_206_*/*~hmac=5317ab99733139f2aaa3163692d1813eb5cdc24211c115b68d5103e74c5d819d/hls-p/ingest_206_720p/index.m3u8
+https://app-etslive-2.vidio.com/live/206/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/rcti.png" group-title="INDONESIA", RCTI
-https://linier.rctiplus.id/live/eds/rcti_fta/live_fta/hdntl=exp=1605413041~acl=%2f*~data=hdntl~hmac=509469f8662f472e0bec4b8c63b860b77ee0a9937f8157d3e1fc2beb98557751/rcti_fta-mp4a_64000=2.m3u8
+https://linier.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/mnctv.png" group-title="INDONESIA", MNC
 https://cdn-rctiplus.metube.id/hls/mnctvplus_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/gtv.png" group-title="INDONESIA", GTV
-https://linier.rctiplus.id/live/eds/gtv_fta/live_fta/hdntl=exp=1605413331~acl=%2f*~data=hdntl~hmac=ec3e9b128f538a41a4329139c348f370ae08a33e5b37dc2a473a320897e66304/gtv_fta-avc1_2000000=1.m3u8
+https://linier.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/life.png" group-title="INDONESIA", LIFE TV
+https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/INews.png" group-title="INDONESIA", INEWS
-https://linier.rctiplus.id/live/eds/inews_fta/live_fta/hdntl=exp=1605413365~acl=%2f*~data=hdntl~hmac=6cd30de91573929fe0a6697533541a9feb8f289f6021a3dd160e0f81eb8c2139/inews_fta-mp4a_64000=2.m3u8
+https://linier.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/rtv.png" group-title="INDONESIA", RTV
-https://cdngb196.useetv.com/joss/14/rtv/chunklist_w1796078877_b684100_sleng.m3u8?enc=VpG1M60xlouU5VOLjUT4sQ&id=&exp=1605336474
+https://app-etslive-2.vidio.com/live/geo_1561/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/metrotv.png" group-title="INDONESIA", METRO TV
-https://cdngb196.useetv.com/joss/15/metrotv/chunklist_w1242302867_b894100_sleng.m3u8?enc=qmUz6O25tNBzKsb7YfjM7g&id=&exp=1605337825
+https://dmxleo.dailymotion.com/cdn/manifest/video/x9n8889.m3u8?auth=1605856516-2688-yfitu6zw-a43d287830ef8e62e88d28c9e7c8f550jyfitu6zw&bs=1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/transtv.png" group-title="INDONESIA", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w556392170_b744100_sleng.m3u8
@@ -65,6 +68,9 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/tvri.png" group-title="INDONESIA", TVRI BUDAYA
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/antaratv.png" group-title="INDONESIA", TVRI BUDAYA
+https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/antaratv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/beritasatu.png" group-title="INDONESIA", BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
