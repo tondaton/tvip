@@ -28,7 +28,7 @@ https://linier.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 https://app-etslive-2.vidio.com/live/geo_1561/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/metrotv.png" group-title="INDONESIA", METRO TV
-https://dmxleo.dailymotion.com/cdn/manifest/video/x9n8889.m3u8?auth=1605856516-2688-yfitu6zw-a43d287830ef8e62e88d28c9e7c8f550jyfitu6zw&bs=1
+https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(4983fc74-d7b9-4659-9b27-d42044947d49)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/transtv.png" group-title="INDONESIA", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w556392170_b744100_sleng.m3u8
