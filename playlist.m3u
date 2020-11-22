@@ -21,15 +21,6 @@ http://chostv.mobie.in/files/iptv/gtv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/life.png" group-title="INDONESIA", LIFE TV
 https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/INews.png" group-title="INDONESIA", INEWS
-https://linier.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/rtv.png" group-title="INDONESIA", RTV
-https://app-etslive-2.vidio.com/live/geo_1561/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/metrotv.png" group-title="INDONESIA", METRO TV
-https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(4983fc74-d7b9-4659-9b27-d42044947d49)/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/transtv.png" group-title="INDONESIA", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w556392170_b744100_sleng.m3u8
 
@@ -54,6 +45,18 @@ plugin://plugin.video.youtube/play/?video_id=AecMq8M2Hgs
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/kompastv.png" group-title="INDONESIA", KOMPAS TV
 plugin://plugin.video.youtube/play/?video_id=gIB2egm7tL8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/beritasatu.png" group-title="INDONESIA", BERITASATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/elshintatv.png" group-title="INDONESIA", ELSINTA TV
+http://210.210.155.35/qwr9ew/s/s10/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/INews.png" group-title="INDONESIA", INEWS
+http://chostv.mobie.in/files/iptv/inews.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/metrotv.png" group-title="INDONESIA", METRO TV
+https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(4983fc74-d7b9-4659-9b27-d42044947d49)/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/jaktv.png" group-title="INDONESIA", JAK TV
 http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
@@ -72,14 +75,11 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Str
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/antaratv.png" group-title="INDONESIA", TVRI BUDAYA
 https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/antaratv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/beritasatu.png" group-title="INDONESIA", BERITASATU
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/rtv.png" group-title="INDONESIA", RTV
+http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/daaitv.png" group-title="INDONESIA",DAAI TV
 ttps://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/elshintatv.png" group-title="INDONESIA", ELSINTA TV
-http://210.210.155.35/qwr9ew/s/s10/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/mytv.png" group-title="INDONESIA", MyTV
 https://etslive-2-vidio-com.akamaized.net/exp=1605467869~acl=/hls-p/ingest_6711_*/*~hmac=c7615ce154c5f9bcc813c37507400b7e695215243bf043aeff096e07a3f0a96e/hls-p/ingest_6711_720p/index.m3u8
