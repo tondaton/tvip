@@ -76,7 +76,7 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Str
 https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/antaratv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/rtv.png" group-title="INDONESIA", RTV
-http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.130/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/daaitv.png" group-title="INDONESIA",DAAI TV
 ttps://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
