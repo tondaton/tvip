@@ -96,7 +96,7 @@ http://rr2.dens.tv/s/s22/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="NEWS",  CHANNEL NEWS ASIA
 http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 
-#EXTINF:-1 tvg-logo="http://dens.tv/images/channel-logo/56.jpg" group-title="NEWS",  ALJAZEERA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/43/AlJazeera.png" group-title="NEWS",  ALJAZEERA
 http://rr2.dens.tv/s/s17/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nhkworld_big1.png?v=2.0.0.11" group-title="NEWS",  NHK WORLD JAPAN
