@@ -51,7 +51,7 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/tvri.png" group-title="INDONESIA", TVRI BUDAYA
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/antaratv.png" group-title="INDONESIA", TVRI BUDAYA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/antaratv.png" group-title="INDONESIA", ANTARA TV
 https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/antaratv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tondaton/tvip/main/logo/daaitv.png" group-title="INDONESIA",DAAI TV
